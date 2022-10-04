@@ -1,3 +1,0 @@
-# GXZlegend
-
-test
